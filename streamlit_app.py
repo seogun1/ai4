@@ -76,7 +76,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
     labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"], "videos" : ["https://youtube.com/shorts/RdKN0NPMIZk?si=pMiF3fRPdM6_36Jz"]}, 
     labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://img.bizthenaum.co.kr/img2022/uyang_jjajang_01.jpg"], "videos" : ["https://youtube.com/shorts/CgBD_KpGI6U?si=ixQCiHCrIybR9FEw"]},
-    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://cdn.shopify.com/s/files/1/0528/8266/9745/files/00_56ba285a-533b-45aa-bf9d-5c98fb48cad5.jpg?v=1654594868"]}, "videos" : ["https://youtube.com/shorts/ft1jCE7_j4w?si=XuMX8x9-Cqbxy8Qh"]}, 
+    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://cdn.shopify.com/s/files/1/0528/8266/9745/files/00_56ba285a-533b-45aa-bf9d-5c98fb48cad5.jpg?v=1654594868"], "videos" : ["https://youtube.com/shorts/ft1jCE7_j4w?si=XuMX8x9-Cqbxy8Qh"]}, 
     labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp"], "videos" : ["https://youtube.com/shorts/2ypDuFzVCA0?si=PJrbXOT38jEACE4o"]},
 
 }
